@@ -16,4 +16,7 @@ since additional ones will be added when grading.
 * **example.topo** - A slightly more complex connection
 
 # Running Simulations
-Run the following commands on your linux kernal after nstalling TOSSIM
+Run the following commands on your linux kernal after installing TOSSIM:
+cd /into_the_folder_you_downloaded/Networking-Group-Chat-Application
+make micaz sim
+python Application.py
